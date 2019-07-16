@@ -1,1 +1,1 @@
-# spam-7
+# SpamBot1v2
